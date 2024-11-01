@@ -1,13 +1,19 @@
-# FamilyFinance
+# 🐞 LADYBUG 🐞
+This repository has been forked for use as test data in the Ladybug Project. Below is the original information from the repository.
+
+---
+## FamilyFinance
+
+An Android app for managing family finances.
 
 Family finance manager for Android.
 
-# Quick links
+## Quick links
 - [Google+ community](https://plus.google.com/communities/117217393387989904128)
 - [Join beta testing program](https://play.google.com/apps/testing/io.github.zwieback.familyfinance) *(You must be joined to Google+ community)*
 - [Report an issue or request a feature](https://github.com/zwieback/FamilyFinance/issues/new) but before **[read this](#report-a-bug-or-request-a-feature)**
 
-## Report a bug or request a feature
+### Report a bug or request a feature
 Before creating a new issue please make sure that same or similar issue is not already created by checking 
 [open issues](https://github.com/zwieback/FamilyFinance/issues?state=open) and [closed issues](https://github.com/zwieback/FamilyFinance/issues?state=closed) *(please note that there might be multiple pages)*. If your issue is already 
 there, don't create a new one, but leave a comment under already existing one.
@@ -21,7 +27,7 @@ Checklist for creating issues:
 
 [Create new issue](https://github.com/zwieback/FamilyFinance/issues/new)
 
-# Credits
+## Credits
 
 *Family Finance* relies on several of open source libraries:
 
@@ -43,11 +49,11 @@ Checklist for creating issues:
 - [Validator](https://github.com/jpetitto/validator)
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
-# Developed By
+## Developed By
 
 * Anton Avdeev - <anton.avdeev.developer@gmail.com>
 
-# License
+## License
 
     Copyright 2017 Anton Avdeev
 
