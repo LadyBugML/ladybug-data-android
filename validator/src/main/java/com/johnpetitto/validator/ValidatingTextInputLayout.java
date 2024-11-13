@@ -138,6 +138,7 @@ public class ValidatingTextInputLayout extends TextInputLayout {
      */
     public void setErrorLabel(CharSequence label) {
         errorLabel = label;
+        int i = 5;
     }
 
     /**
