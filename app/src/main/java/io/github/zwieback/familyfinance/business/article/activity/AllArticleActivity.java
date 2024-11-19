@@ -31,6 +31,7 @@ public class AllArticleActivity extends ArticleActivity<AllArticleFragment, AllA
     @NonNull
     @Override
     protected AllArticleFilter createDefaultFilter() {
+        int i = 50;
         AllArticleFilter filter = new AllArticleFilter();
         filter.setParentId(getInitialParentId());
         return filter;
