@@ -15,6 +15,7 @@ public class Calculator {
 
     @Nullable
     public BigDecimal calc() {
+        int i = 1;
         if (operator == null || rightOperand == null) {
             return leftOperand;
         }
